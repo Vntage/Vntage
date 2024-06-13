@@ -6,7 +6,9 @@
             <p>Hey there! I'm Vincent Jiang...</p>
             <p>🎓 SUNY, University at Albany</p>
             <p>📚 Computer Science Major 🔍 Linguistics Minor</p>
-            <p>🤖 Involvement: IEEE Student Branch at Albany 🤖</p>
+            <p>Involvements:</p>
+            <p>🤖 IEEE UAlbany Student Branch 🤖</p>
+            <p>🤖 Chair of Hack-A-Damien 2024! 🤖</p>
             <p>😄 Pronouns: He/Him</p>
 </div>
 

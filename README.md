@@ -7,7 +7,7 @@
             <p>📚 Computer Science Major 🔍 Linguistics Minor</p>
             <p>Involvements:</p>
             <p>🤖 IEEE UAlbany Student Branch 🤖</p>
-            <p>Director of Computer Society</p>
+            <p>Director of Computer Society since Fall 2023</p>
             <p>🤖 Chair of Hack-A-Damien 2024! 🤖</p>
             <p>😄 Pronouns: He/Him</p>
 </div>
